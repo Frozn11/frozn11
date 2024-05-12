@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frozn11</h1>
-<h3 align="center">A developer on python and game developer on unity</h3>
+<h3 align="center">A developer and game developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frozn11&label=Profile%20views&color=0e75b6&style=flat" alt="frozn11" /> </p>
 
