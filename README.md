@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Frozn11</h1>
 <h3 align="center">A developer on python and game developer on unity</h3>
 
