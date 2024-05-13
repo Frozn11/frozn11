@@ -47,10 +47,8 @@
 
 ###
 
-
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Frozn11/Frozn11/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
