@@ -4,9 +4,6 @@
 
 
 
-<img align="right" height="150" src="https://i.imgflip.com/8pwk2l.gif"  />
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
